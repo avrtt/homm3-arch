@@ -5,7 +5,7 @@ This repository contains original source files for **Heroes of Might and Magic I
 1. Install [wine](https://archlinux.org/packages/extra/x86_64/wine/)
 2. Clone the repo
 3. Navigate to the folder 
-4. Download `game_info.tar.gz` ([Drive]()) to the folder
+4. Download `game_info.tar.gz` ([Drive](https://drive.google.com/file/d/1ZPBfas5WHIUguTwPtj6P8voK04L-iWW7/view?usp=sharing)) to the folder
 5. Unpack media files:
 ```
 tar -xvzf game_info.tar.gz
