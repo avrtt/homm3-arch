@@ -9,7 +9,7 @@ This repository contains original source files for **Heroes of Might and Magic I
 ```
 tar -xvzf game_info.tar.gz -C /game_info
 ```
-4. Run the script:
+5. Run the script:
 ```
 ./start.sh
 ```
