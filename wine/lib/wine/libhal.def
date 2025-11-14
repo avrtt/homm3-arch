@@ -1,0 +1,25 @@
+; File generated automatically from ../wine/dlls/hal/hal.spec; do not edit!
+
+LIBRARY hal.dll
+
+EXPORTS
+  ExAcquireFastMutex@4 @1
+  ExReleaseFastMutex@4 @2
+  ExTryToAcquireFastMutex@4 @3
+  KeAcquireInStackQueuedSpinLock@8 @7
+  KeReleaseInStackQueuedSpinLock@4 @12
+  KfAcquireSpinLock@4 @16
+  KfLowerIrql@4 @17
+  KfRaiseIrql@4 @18
+  KfReleaseSpinLock@8 @19
+  HalGetBusData@20 @36
+  HalGetBusDataByOffset@24 @37
+  HalTranslateBusAddress@24 @61
+  KeAcquireSpinLock@8 @71
+  KeGetCurrentIrql@0 @73
+  KeQueryPerformanceCounter@4 @75
+  KeReleaseSpinLock@8 @79
+  READ_PORT_UCHAR@4 @84
+  READ_PORT_ULONG@4 @85
+  WRITE_PORT_UCHAR@8 @90
+  WRITE_PORT_ULONG@8 @91

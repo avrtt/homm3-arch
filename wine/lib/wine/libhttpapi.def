@@ -1,0 +1,14 @@
+; File generated automatically from ../wine/dlls/httpapi/httpapi.spec; do not edit!
+
+LIBRARY httpapi.dll
+
+EXPORTS
+  HttpAddUrl@12 @2
+  HttpCreateHttpHandle@8 @8
+  HttpCreateServerSession@12 @9
+  HttpCloseServerSession@8 @10
+  HttpDeleteServiceConfiguration@20 @12
+  HttpInitialize@12 @23
+  HttpQueryServiceConfiguration@32 @32
+  HttpSetServiceConfiguration@20 @49
+  HttpTerminate@8 @52

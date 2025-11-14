@@ -1,0 +1,21 @@
+CSMT_DISABLE=0
+USE_PULSEAUDIO=0
+USE_SYSTEM_WINE=1
+RESTORE_RESOLUTION=1
+VIRTUAL_DESKTOP=0
+VIRTUAL_DESKTOP_SIZE=800x600
+
+DXVK=1
+DXVK_HUD=0
+ESYNC=1
+PBA=0
+
+WINDOWS_VERSION=winxp
+PREFIX_ARCH=win64
+
+# Change these GLIBC variables only if you know what you're doing
+
+CHECK_GLIBC=1
+GLIBC_REQUIRED=2.23
+
+# You can also put custom variables in this file

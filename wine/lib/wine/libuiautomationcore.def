@@ -1,0 +1,12 @@
+; File generated automatically from ../wine/dlls/uiautomationcore/uiautomationcore.spec; do not edit!
+
+LIBRARY uiautomationcore.dll
+
+EXPORTS
+  UiaClientsAreListening@0 @55
+  UiaGetReservedMixedAttributeValue@4 @62
+  UiaGetReservedNotSupportedValue@4 @63
+  UiaHostProviderFromHwnd@8 @71
+  UiaLookupId@8 @72
+  UiaRaiseAutomationEvent@8 @81
+  UiaReturnRawElementProvider@16 @86
